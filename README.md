@@ -41,6 +41,8 @@ File Structure:
 └── README.md
 Screenshot:
 <img width="931" height="437" alt="image" src="https://github.com/user-attachments/assets/da6b9171-5757-4f0e-8807-47fa06d56f45" />
+git clone https://github.com/khalidlaiba151-sys/zoo-guide-ai-agent-.git
+cd zoo-guide-ai-agent-
 
 
 
