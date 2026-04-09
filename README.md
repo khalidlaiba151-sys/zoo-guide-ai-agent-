@@ -29,7 +29,7 @@ A multi-agent Zoo Tour Guide built with Google ADK that researches animal-relate
 4. The formatter agent creates a readable response
 
 ## Installation
-```bash
+``bash
 git clone https://github.com/khalidlaiba151-sys/zoo-guide-ai-agent-.git
 cd zoo-guide-ai-agent-
 pip install -r requirements.txt
@@ -43,9 +43,10 @@ File Structure:
 ├── .env
 ├── requirements.txt
 └── README.md
-Screenshot:
-<img width="1074" height="496" alt="image" src="https://github.com/user-attachments/assets/5e32dd33-b995-4f3d-a791-
-837c4f4e6bbc" />
+
+ Screenshot:
+<img width="1077" height="491" alt="image" src="https://github.com/user-attachments/assets/31725ad9-0b72-4870-8f81-2b36fa590c09" />
+
 Future Improvements:
 
 Ab yeh **professional aur clean** lagay ga.
@@ -53,3 +54,4 @@ Ab yeh **professional aur clean** lagay ga.
 git clone https://github.com/khalidlaiba151-sys/zoo-guide-ai-agent-.git
 cd zoo-guide-ai-agent-
 pip install -r requirements.txt
+hh
